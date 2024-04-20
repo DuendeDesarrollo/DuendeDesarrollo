@@ -1,6 +1,6 @@
 # Título del Proyecto 
 
-![Imagen de Portada](url_de_la_imagen) 
+![Imagen de Portada](https://github.com/DuendeDesarrollo/DuendeDesarrollo/blob/main/recursos/Duende.jpg?raw=true) 
 
 ## Descripción 
 
