@@ -27,5 +27,5 @@ Inicio esta aventura en GitHub con la finalidad de aprender y avanzar en el mund
       7. -Realizo una comprobación de los cambios.
       8. -Fusiono la branch “desarrolloPersona” con la branch principal “main”.
       9. -Por ultimo añado el proceso a mi pagina principal de GitHub.
-          ![Imagen resultado GitHub]()
+          ![Imagen resultado GitHub](https://github.com/DuendeDesarrollo/DuendeDesarrollo/blob/main/recursos/Reto1.JPG)
     
