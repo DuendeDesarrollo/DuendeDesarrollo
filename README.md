@@ -1,4 +1,4 @@
-# Título del Proyecto 
+# Portada GitHub 
 
 ![Imagen de Portada](https://github.com/DuendeDesarrollo/DuendeDesarrollo/blob/main/recursos/Duende.jpg?raw=true) 
 
