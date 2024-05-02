@@ -4,17 +4,10 @@
 
 ## Descripción 
 
-Breve descripción del proyecto, objetivos y funcionalidades principales. 
+Inicio esta aventura en GitHub con la finalidad de aprender y avanzar en el mundo de la programación. 
 
 ## Características 
-- Característica 1
-- Característica 2
-- Característica 3
+- Pequeños proyectos
+- Retos de clase
+- Practicas
 
-## Instalación
-
-Instrucciones para instalar y configurar el proyecto. 
-
-## Uso Guía rápida sobre cómo utilizar el proyecto y ejemplos de código. 
-
-## Contribución Información sobre cómo contribuir al proyecto, directrices para enviar pull requests y reportar issues. ## Licencia Licencia bajo la cual se distribuye el proyecto.
